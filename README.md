@@ -78,10 +78,19 @@
 > "I believe in code, caffeine, and consistency. I debug my way through life — one semicolon at a time!"
 
 ---
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake.svg" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AdityaPandey-DEV/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AdityaPandey-DEV/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/AdityaPandey-DEV/snk/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 ⭐️ **Thanks for visiting my profile! Feel free to star or fork any repo you find useful.**
