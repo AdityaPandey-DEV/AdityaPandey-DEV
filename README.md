@@ -35,19 +35,7 @@
 
 ---
 
-## 📊 GitHub Analytics & Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityapandey-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapandey-dev&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapandey-dev&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
-</p>
 
 ---
 
