@@ -1,4 +1,5 @@
-# 👋 Hey there, I'm Aditya Pandey - Full Stack Developer & CSE Student
+# 👋 Hi, I'm Aditya Pandey
+**Computer Science Undergraduate | Software Engineering & Systems Enthusiast**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=B.Tech+CSE+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Passionate+Learner" />
