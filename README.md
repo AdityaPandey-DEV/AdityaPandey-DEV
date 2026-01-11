@@ -29,9 +29,9 @@
 
 | Project | Description | Tech Stack | GitHub |
 |--------|-------------|------------|--------|
-| **Graph Algorithm Visualizer** | Simulates DFS, BFS, Dijkstra, Kruskal etc. for educational use | HTML, CSS, JavaScript | [🔗 Repo](https://github.com/adityapandey-dev/graph-algorithm-visualizer) |
-| **Portfolio Website** | My personal developer portfolio | HTML, Tailwind CSS, JS | [🔗 Repo](https://github.com/adityapandey-dev/adityapandey-dev.github.io) |
-| **Weather App** | Fetches real-time weather data from API | HTML, CSS, JavaScript | [🔗 Repo](https://github.com/adityapandey-dev/weather-app) |
+| **Natural Language Shell Interface** | AI-assisted system that translates natural language into executable Unix/Linux commands using a custom C-based mini-bash with real-time execution | C, Python (Flask), React, WebSockets, Unix/Linux | [🔗 Repo](https://github.com/adityapandey-dev/natural-language-shell) |
+| **FunPrinting – Automated Document Platform** | Full-stack platform for automated print order management with authentication, payments, and backend queue handling | Next.js, React, Node.js, MongoDB, Razorpay | [🔗 Repo](https://github.com/adityapandey-dev/funPrinting) |
+| **Graph Algorithm Visualizer** | Interactive visualization tool for graph algorithms such as DFS, BFS, Dijkstra, and Kruskal for educational use | HTML, CSS, JavaScript | [🔗 Repo](https://github.com/adityapandey-dev/graph-algorithm-visualizer) |
 
 ---
 
@@ -51,15 +51,13 @@
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications (Relevant)
 
-- ✅ **Meta Front-End Developer** – Coursera
-- ✅ **Java Programming** – GEHU
-- ✅ **Python & ML Basics** – Udemy
-- ✅ **Introduction to Cyber Security** – Cisco
-- ✅ **AI For Everyone** – Andrew Ng (Coursera)
-
----
+- **Data Structures and Algorithms** – UC San Diego (Coursera)
+- **IBM AI Engineering with Python, PyTorch & TensorFlow** – IBM
+- **Introduction to Generative AI** – Google Cloud Skills Boost
+- **Meta Full Stack Developer (Front-End & Back-End)** – Meta
+- **Object Oriented Programming** – University of London
 
 ## 📫 Connect with Me
 
