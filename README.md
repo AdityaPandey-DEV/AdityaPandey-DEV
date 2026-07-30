@@ -30,13 +30,10 @@
 
 | Project | Description | Tech Stack | GitHub |
 |--------|-------------|------------|--------|
-| **Natural Language Shell Interface** | AI-assisted system that translates natural language into executable Unix/Linux commands using a custom C-based mini-bash with real-time execution | C, Python (Flask), React, WebSockets, Unix/Linux | [🔗 Repo](https://github.com/adityapandey-dev/natural-language-shell) |
-| **FunPrinting – Automated Document Platform** | Full-stack platform for automated print order management with authentication, payments, and backend queue handling | Next.js, React, Node.js, MongoDB, Razorpay | [🔗 Repo](https://github.com/adityapandey-dev/funPrinting) |
-| **Graph Algorithm Visualizer** | Interactive visualization tool for graph algorithms such as DFS, BFS, Dijkstra, and Kruskal for educational use | HTML, CSS, JavaScript | [🔗 Repo](https://github.com/adityapandey-dev/graph-algorithm-visualizer) |
-
----
-
-
+| **DataKeeper Cloud Storage** | A scalable, enterprise-grade cloud storage engine featuring Serverless Postgres, Direct-to-Cloud uploads (zero-egress), and Google OAuth isolation. | Next.js 15, Neon Postgres, Cloudflare R2 | [🔗 Repo](https://github.com/AdityaPandey-DEV/datakeeper) |
+| **FunPrinting SaaS Platform** | Full-stack platform for automated print order management with authentication, payments, and background queue handling for high-volume campus printing. | Next.js, Node.js, MongoDB, Razorpay | [🔗 Repo](https://github.com/adityapandey-dev/funPrinting) |
+| **codeHabit Analytics** | Full-stack platform for developers to analyze their daily habits and coding performance on LeetCode with correlation engines. | Next.js, TypeScript, API Integrations | [🔗 Repo](https://github.com/AdityaPandey-DEV/codeHabit) |
+| **CP-Progress-Sync** | Automated sync engine for Competitive Programming & DSA progress across LeetCode, Codeforces, & GeeksforGeeks with daily auto-commits. | C++, Shell, APIs | [🔗 Repo](https://github.com/AdityaPandey-DEV/CP-Progress-Sync) |
 
 ---
 
@@ -80,5 +77,6 @@
   />
 </picture>
 
+<br />
 
 ⭐️ **Thanks for visiting my profile! Feel free to star or fork any repo you find useful.**
