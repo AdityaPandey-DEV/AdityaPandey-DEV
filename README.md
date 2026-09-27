@@ -1,82 +1,80 @@
-# 👋 Hi, I'm Aditya Pandey
-**Computer Science Undergraduate | Software Engineering & Systems Enthusiast**
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=B.Tech+CSE+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Passionate+Learner" />
-</p>
+# Aditya Pandey
 
----
+**AI Solutions Architect · Technical Product Manager**
 
-## 🧑‍💻 About Me
+I design system architectures and leverage AI to ship production-grade software at 10x speed.
+<br/>Databases, compilers, ML pipelines, SaaS platforms — built and deployed before graduating.
 
-- 🎓 I’m a B.Tech CSE student at Graphic Era Hill University, Bhimtal (Batch 2023–2027)
-- 💻 I love working on Full Stack Web Development and AI/ML Projects
-- 📈 Always open to learning new tech and contributing to meaningful projects
-- 🌐 Actively seeking internships and opportunities in Software Development
-- 📚 I’m currently enhancing my DSA skills using [Striver's Sheet](https://takeuforward.org)
-- 💡 Exploring **Next.js**, **TypeScript**, and **AI integrations**
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adityapandey.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityapandeydev)
+
+</div>
 
 ---
 
-## 🔧 Tech Stack
+### How I Work
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,tailwind,figma,git,github,vscode,vercel,netlify,linux,postman" />
-</p>
+I operate at the **architecture layer** — designing systems, defining data models, and making engineering decisions. I use advanced AI tools (Claude, Gemini, AntiGravity) to translate those designs into production code, then integrate, debug, and deploy. This is the same AI-augmented engineering workflow being adopted by top-tier engineering teams worldwide.
 
 ---
 
-## 🚀 Featured Projects
+### 🏗️ Flagship Projects
 
-| Project | Description | Tech Stack | GitHub |
-|--------|-------------|------------|--------|
-| **DataKeeper Cloud Storage** | A scalable, enterprise-grade cloud storage engine featuring Serverless Postgres, Direct-to-Cloud uploads (zero-egress), and Google OAuth isolation. | Next.js 15, Neon Postgres, Cloudflare R2 | [🔗 Repo](https://github.com/AdityaPandey-DEV/datakeeper) |
-| **FunPrinting SaaS Platform** | Full-stack platform for automated print order management with authentication, payments, and background queue handling for high-volume campus printing. | Next.js, Node.js, MongoDB, Razorpay | [🔗 Repo](https://github.com/adityapandey-dev/funPrinting) |
-| **codeHabit Analytics** | Full-stack platform for developers to analyze their daily habits and coding performance on LeetCode with correlation engines. | Next.js, TypeScript, API Integrations | [🔗 Repo](https://github.com/AdityaPandey-DEV/codeHabit) |
-| **CP-Progress-Sync** | Automated sync engine for Competitive Programming & DSA progress across LeetCode, Codeforces, & GeeksforGeeks with daily auto-commits. | C++, Shell, APIs | [🔗 Repo](https://github.com/AdityaPandey-DEV/CP-Progress-Sync) |
+| Project | What It Is | Core Tech |
+|---|---|---|
+| **[vaultdb](https://github.com/AdityaPandey-DEV/vaultdb)** | Redis-compatible key-value store with LSM-Tree, WAL, Bloom filters, compaction | C++17 |
+| **[codelens](https://github.com/AdityaPandey-DEV/codelens)** | Semantic code search engine — CodeBERT + LoRA fine-tuning, +22% MRR over baseline | Python, PyTorch |
+| **[Optimix-Compiler](https://github.com/AdityaPandey-DEV/Optimix-Compiler)** | Optimizing compiler with custom IR, SSA form, CFG — zero dependencies | C++17 |
+| **[flowguard](https://github.com/AdityaPandey-DEV/flowguard)** | Rate limiter + async job queue from scratch — 1000+ req/s, no Redis | Python, Flask |
+| **[Natural-Language-Shell](https://github.com/AdityaPandey-DEV/Natural-Language-Shell)** | AI-powered terminal — custom C shell + Gemini command translation | C, Python |
+| **[Mini-Sql-Compiler](https://github.com/AdityaPandey-DEV/Mini-Sql-Compiler)** | SQL compiler with lexer, parser, semantic analyzer, web visualizer | C++ |
+
+### 📦 Full-Stack Applications
+
+| Project | What It Is | Core Tech |
+|---|---|---|
+| **[codeHabit](https://github.com/AdityaPandey-DEV/codeHabit)** | Developer productivity platform — habit tracking, LeetCode sync, correlation engine | Next.js 15, PostgreSQL |
+| **[CampusFleet](https://github.com/AdityaPandey-DEV/CampusFleet)** | Campus bus fleet management — GPS tracking, role-based panels, QR passes | Next.js, TypeScript |
+| **[bussync-app](https://github.com/AdityaPandey-DEV/bussync-app)** | Real-time bus tracking with Supabase Realtime | Next.js, Supabase |
+| **[Edugrade](https://github.com/AdityaPandey-DEV/Edugrade)** | AI grading system — Gemini-powered rubric evaluation (GDC submission) | React, Node.js, Gemini |
+| **[student-tracking-system](https://github.com/AdityaPandey-DEV/student-tracking-system)** | AI-powered student management — timetable gen, attendance, chatbot | Django, PostgreSQL |
+| **[E-Commerce-Store](https://github.com/AdityaPandey-DEV/E-Commerce-Store)** | Full-stack e-commerce with admin dashboard | React, Node.js, MongoDB |
+| **[DataKeeper](https://github.com/AdityaPandey-DEV/DataKeeper)** | macOS Finder-style cloud file manager | Next.js, Vercel Blob |
+| **[smart-expense-splitter](https://github.com/AdityaPandey-DEV/smart-expense-splitter)** | AI expense splitter with analytics dashboard | React, Vite |
+| **[MyResume](https://github.com/AdityaPandey-DEV/MyResume)** | Dynamic portfolio with admin CMS | Next.js 15, Prisma, PostgreSQL |
+
+### 🏢 Organizations
+
+| Org | What It Does |
+|---|---|
+| **[FunPrinting](https://github.com/FunPrinting)** | Campus printing-as-a-service platform |
+| **[RentHubOrg](https://github.com/RentHubOrg)** | Student housing & rental marketplace |
+| **[Megha-Mall](https://github.com/Megha-Mall)** | Multi-vendor e-commerce platform |
+
+---
+
+### Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
-## 🏆 Certifications (Relevant)
+<div align="center">
 
-- **Data Structures and Algorithms** – UC San Diego (Coursera)
-- **IBM AI Engineering with Python, PyTorch & TensorFlow** – IBM
-- **Introduction to Generative AI** – Google Cloud Skills Boost
-- **Meta Full Stack Developer (Front-End & Back-End)** – Meta
-- **Object Oriented Programming** – University of London
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaPandey-DEV&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaPandey-DEV&theme=github-dark-blue&hide_border=true" height="160" />
 
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:adityapandey.dev.in@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/adityapandey-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/adityapandey-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/Adityapandey-dev"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://instagram.com/devadityapandey"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
-## ✨ Fun Fact
-
-> "I believe in code, caffeine, and consistency. I debug my way through life — one semicolon at a time!"
-
----
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Aditya-Experiments/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Aditya-Experiments/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Aditya-Experiments/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-<br />
-
-⭐️ **Thanks for visiting my profile! Feel free to star or fork any repo you find useful.**
+</div>
